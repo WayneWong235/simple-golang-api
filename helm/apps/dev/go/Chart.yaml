@@ -1,0 +1,4 @@
+apiVersion: v1
+description: golang helm package
+name: go
+version: 0.0.1
